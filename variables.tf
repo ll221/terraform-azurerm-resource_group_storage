@@ -1,4 +1,3 @@
-# modules/resource_group_storage/variables.tf
 
 variable "resource_group_name" {
   description = "Назва групи ресурсів"

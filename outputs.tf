@@ -1,4 +1,3 @@
-# modules/resource_group_storage/outputs.tf
 
 output "resource_group_id" {
   description = "ID групи ресурсів"
